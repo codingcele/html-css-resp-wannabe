@@ -140,13 +140,3 @@ img {
     }
 }
 
-@media screen and (max-width: 480px) {
-    .text-center {
-        display: flex;
-        justify-content: center;
-    }
-    .why-us {
-        display: flex;
-        justify-content: center;
-    }
-}
